@@ -2,7 +2,7 @@
 
 -😁 Me chamo Mariana Regina
 -💻 Faço estagio nobanco Santander
-📕 Me aprofundando um pouco em SLQ e Power BI
+-📕 Me aprofundando um pouco mais  em SLQ e Power BI
 maryreginaf
 
 <div style="display: inline_block"><br>

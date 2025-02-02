@@ -16,9 +16,7 @@
  <img align="center" alt="maryreginaf-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="maryreginaf-Canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     <img align="center" alt="maryreginaf-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-       <img   file:///C:/Users/marif/Downloads/sql-server_17525062.svg />
-  <img align="center" alt="maryreginaf-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slq/sql-original.svg" />
-    
+< img https://www.iconfinder.com/icons/675319/data_data%20base_database_datacenter_server_sql_icon />
                         
 </div>
 

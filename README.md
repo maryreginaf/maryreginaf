@@ -1,9 +1,9 @@
 ### Oii,eu sou a  Mariana Regina 👋
 
 -😁 Me chamo Mariana Regina
-- Fço Analise e Desenvolvimento de Sietamas
--💻 Faço estagio no banco Santander
--📕 Me aprofundando um pouco mais  em SLQ e Power BI
+- Graduada em Analise e desenvolviemnto de sistemas 💻
+-💻  Me aprofundando um pouco mais  em SLQ e Power BI e dados 
+
 
 
 <div style="display: inline_block"><br>

@@ -1,8 +1,8 @@
 ### Oii,eu sou a  Mariana Regina 👋
 
--😁 Me chamo Mariana Regina
-- Graduada em Analise e desenvolviemnto de sistemas 💻 <br>
--💻  Me aprofundando um pouco mais  em SLQ e Power BI e dados 
+😁 Me chamo Mariana Regina <br>
+Graduada em Analise e desenvolviemnto de sistemas 💻 <br>
+💻  Me aprofundando um pouco mais  em SLQ e Power BI e dados 
 
 
 

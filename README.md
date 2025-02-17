@@ -1,22 +1,64 @@
-### Oii,eu sou a  Mariana Regina 👋
+<h2 align="left">Olá, Seja-Bem  Vindo  ao meu GitHub!!</h2>
 
- Me chamo Mariana Regina 😁 <br>
-Graduada em Analise e desenvolviemnto de sistemas 💻 <br>
- Me aprofundando um pouco mais  em SLQ e Power BI e dados 💻  
+###
 
+<h5 align="left">About me</h5>
 
+###
 
-<div style="display: inline_block"><br>
+<h4 align="left">👋 Olá! Sou Mariana, apaixonada por análise de dados, automação e tecnologia. Trabalho com Power BI, SQL, Python e metodologias ágeis, buscando transformar dados em insights estratégicos.<br><br>🚀 Atualmente, estou aprimorando meus conhecimentos Banco de dados para Data Science<br><br>💻Tenho conhecimento em Databricks, governança de projetos e programação para otimizar processos e criar soluções eficientes.<br><br>📊 Meu foco é desenvolver dashboards interativos, automatizar fluxos de trabalho e contribuir para a inovação na área de dados.<br><br>🔗 Vamos conectar? Sempre aberta a trocar ideias e colaborar em novos projetos!</h4>
 
-  <img align="center" alt="maryreginaf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="maryreginaf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="maryreginaf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="maryreginaf-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="maryreginaf-VS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />       
- <img align="center" alt="maryreginaf-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="maryreginaf-Canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-    <img align="center" alt="maryreginaf-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+###
 
-                        
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryreginaf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryreginaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maryreginaf/count.svg?"  />
+</div>
+
+###
+
+<h5 align="left">Hards-Skills</h5>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h5 align="left">Minhas Redes Sociais</h5>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+</div>
+
+###

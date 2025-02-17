@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">About me</h5>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">Hards-Skills</h5>
+<h4 align="left">Hards-Skills</h4>
 
 ###
 
@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<h5 align="left">Minhas Redes Sociais</h5>
+<h4 align="left">Minhas Redes Sociais</h4>
 
 ###
 
